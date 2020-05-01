@@ -1,0 +1,21 @@
+Study at Home
+1. Advantage and disadvantage of array
+2. Search
+3. Sort
+4. Count
+5. Add
+6. Delete
+7. Shift
+
+
+Java Collection:
+1. Array
+2. List
+3. Set
+4. Map
+
+Creation of object of list:
+List <String> strlist = new ArrayList<String>();
+
+Queue
+Stack using array

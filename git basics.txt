@@ -1,0 +1,8 @@
+Add all file to git for tracking
+ - git add .
+
+Commit works
+ - git commit -m "msg_my"
+
+Finally push to server.
+ - git push
